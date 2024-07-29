@@ -1,12 +1,12 @@
 name: 'sonar-scanner'
 description: 'Make sonar-scanner available in your PATH'
-author: 'Warchant'
+author: 'dzzk'
 inputs:
   version:
     description: 'Sonar-scanner version'
     required: true
     # https://github.com/SonarSource/sonar-scanner-cli/releases
-    default: '5.0.1.3006'
+    default: '6.1.0.4477'
 branding:
   icon: 'check'
   color: 'gray-dark'

@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Warchant/setup-sonarqube.git"
+    "url": "git+https://github.com/dzzk/setup-sonar-scanner.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Warchant/setup-sonarqube/issues"
+    "url": "https://github.com/dzzk/setup-sonar-scanner/issues"
   },
-  "homepage": "https://github.com/Warchant/setup-sonarqube#readme",
+  "homepage": "https://github.com/dzzk/setup-sonar-scanner#readme",
   "dependencies": {
     "@actions/core": ">=1.10.0",
     "@actions/tool-cache": "^2.0.1"
